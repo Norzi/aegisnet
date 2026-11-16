@@ -1,4 +1,4 @@
-# aegisnet: building my own VPNs under heavy network censorship
+# AegisNet: building my own VPNs under heavy network censorship
 
 How I taught myself what a VPN actually is, by building one after another on my own servers, in a place where half of the internet is blocked and where "use a VPN" is common advice but almost nobody knows what happens after pressing the button.
 
